@@ -1,0 +1,5 @@
+check enrollment number and registration number... make sure they both are same and going in two diffrent column
+check batchid is right
+check student category in the excel and in the script, there might be issue for general and foreign national
+check email id (Tiss email id and personal email id) What to insert in the table
+
